@@ -1,0 +1,37 @@
+body{
+    background-color: silver;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+div {
+    cursor:crosshair;
+}
+
+.container{
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.main-header{
+    text-align: center;
+    background-color: lightcoral;
+    color: white;
+    block-size: 115px;
+    overflow: hidden;
+}
+
+.self-picture {
+    border-radius: 10px;
+    border:  5px solid rgb(111, 156, 92);
+}
+
+.main-footer{
+    text-align: center;
+    background-color: rgb(45, 58, 120);
+    color: white;
+}
